@@ -1,0 +1,30 @@
+{"frames": {
+
+"ANIMAL WORKER 04-1.png":
+{
+	"frame": {"x":0,"y":0,"w":1067,"h":987},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1067,"h":987},
+	"sourceSize": {"w":1067,"h":987}
+},
+"ANIMAL WORKER 04.png":
+{
+	"frame": {"x":0,"y":987,"w":1067,"h":987},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1067,"h":987},
+	"sourceSize": {"w":1067,"h":987}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cow.png",
+	"format": "RGBA8888",
+	"size": {"w":1067,"h":1974},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e3dd5be0119ad64cc455dc32e89d4706:7b3cfc6cd0d29e2935be3ae2525ec661:1bd846ce2102e34324d6f267c01f5ead$"
+}
+}

@@ -1,0 +1,447 @@
+{"frames": {
+
+"raptor-pro-roar_00 - Copy.png":
+{
+	"frame": {"x":2376,"y":2416,"w":620,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":34,"w":620,"h":522},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_00.png":
+{
+	"frame": {"x":2998,"y":2439,"w":620,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":34,"w":620,"h":522},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_01 - Copy.png":
+{
+	"frame": {"x":1,"y":1378,"w":620,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":133,"y":40,"w":620,"h":487},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_01.png":
+{
+	"frame": {"x":623,"y":1405,"w":620,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":40,"w":620,"h":487},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_02 - Copy.png":
+{
+	"frame": {"x":1131,"y":452,"w":575,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":222,"y":89,"w":575,"h":467},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_02.png":
+{
+	"frame": {"x":1708,"y":452,"w":575,"h":467},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":89,"w":575,"h":467},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_03 - Copy.png":
+{
+	"frame": {"x":1159,"y":1,"w":613,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":252,"y":106,"w":613,"h":449},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_03.png":
+{
+	"frame": {"x":1774,"y":1,"w":613,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":106,"w":613,"h":449},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_04 - Copy.png":
+{
+	"frame": {"x":1,"y":443,"w":563,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":99,"w":563,"h":455},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_04.png":
+{
+	"frame": {"x":566,"y":443,"w":563,"h":455},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":99,"w":563,"h":455},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_05 - Copy.png":
+{
+	"frame": {"x":1,"y":1,"w":577,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":113,"w":577,"h":440},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_05.png":
+{
+	"frame": {"x":580,"y":1,"w":577,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":113,"w":577,"h":440},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_06 - Copy.png":
+{
+	"frame": {"x":2389,"y":1,"w":685,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":104,"w":685,"h":449},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_06.png":
+{
+	"frame": {"x":3076,"y":1,"w":685,"h":449},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":104,"w":685,"h":449},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_07 - Copy.png":
+{
+	"frame": {"x":1245,"y":1405,"w":722,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":65,"w":722,"h":487},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_07.png":
+{
+	"frame": {"x":1969,"y":1415,"w":722,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":65,"w":722,"h":487},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_08 - Copy.png":
+{
+	"frame": {"x":651,"y":921,"w":732,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":69,"w":732,"h":482},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_08.png":
+{
+	"frame": {"x":1385,"y":921,"w":732,"h":482},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":69,"w":732,"h":482},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_09 - Copy.png":
+{
+	"frame": {"x":3300,"y":1452,"w":719,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":63,"w":719,"h":487},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_09.png":
+{
+	"frame": {"x":608,"y":1894,"w":719,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":63,"w":719,"h":487},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_10 - Copy.png":
+{
+	"frame": {"x":1933,"y":1904,"w":690,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":53,"w":690,"h":496},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_10.png":
+{
+	"frame": {"x":3261,"y":1941,"w":690,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":53,"w":690,"h":496},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_11 - Copy.png":
+{
+	"frame": {"x":2649,"y":927,"w":695,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":61,"w":695,"h":486},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_11.png":
+{
+	"frame": {"x":3346,"y":964,"w":695,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":61,"w":695,"h":486},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_12 - Copy.png":
+{
+	"frame": {"x":2285,"y":452,"w":672,"h":473},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":73,"w":672,"h":473},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_12.png":
+{
+	"frame": {"x":2959,"y":452,"w":672,"h":473},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":152,"y":73,"w":672,"h":473},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_13 - Copy.png":
+{
+	"frame": {"x":3633,"y":486,"w":648,"h":476},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":69,"w":648,"h":476},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_13.png":
+{
+	"frame": {"x":1,"y":900,"w":648,"h":476},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":69,"w":648,"h":476},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_14 - Copy.png":
+{
+	"frame": {"x":2693,"y":1415,"w":605,"h":495},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":49,"w":605,"h":495},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_14.png":
+{
+	"frame": {"x":1,"y":1867,"w":605,"h":495},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":49,"w":605,"h":495},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_15 - Copy.png":
+{
+	"frame": {"x":3763,"y":1,"w":483,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":15,"w":483,"h":528},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_15.png":
+{
+	"frame": {"x":2119,"y":927,"w":483,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":15,"w":483,"h":528},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_16 - Copy.png":
+{
+	"frame": {"x":1,"y":2873,"w":526,"h":526},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":168,"y":17,"w":526,"h":526},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_16.png":
+{
+	"frame": {"x":1766,"y":2925,"w":526,"h":526},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":17,"w":526,"h":526},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_17 - Copy.png":
+{
+	"frame": {"x":601,"y":3440,"w":557,"h":540},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":0,"w":557,"h":540},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_17.png":
+{
+	"frame": {"x":1160,"y":3440,"w":557,"h":540},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":0,"w":557,"h":540},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_18 - Copy.png":
+{
+	"frame": {"x":3488,"y":2963,"w":598,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":16,"w":598,"h":539},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_18.png":
+{
+	"frame": {"x":1,"y":3427,"w":598,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":16,"w":598,"h":539},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_19 - Copy.png":
+{
+	"frame": {"x":1151,"y":2913,"w":613,"h":525},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":31,"w":613,"h":525},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_19.png":
+{
+	"frame": {"x":2294,"y":2940,"w":613,"h":525},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":31,"w":613,"h":525},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_20 - Copy.png":
+{
+	"frame": {"x":3620,"y":2439,"w":620,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":34,"w":620,"h":522},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-roar_20.png":
+{
+	"frame": {"x":529,"y":2903,"w":620,"h":522},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":34,"w":620,"h":522},
+	"sourceSize": {"w":865,"h":557}
+},
+"raptor-pro-walk_00 - Copy.png":
+{
+	"frame": {"x":2625,"y":1912,"w":634,"h":502},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":47,"w":634,"h":502},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_01 - Copy.png":
+{
+	"frame": {"x":1,"y":2364,"w":603,"h":507},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":50,"w":603,"h":507},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_02 - Copy.png":
+{
+	"frame": {"x":2909,"y":2963,"w":577,"h":537},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":18,"w":577,"h":537},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_03 - Copy.png":
+{
+	"frame": {"x":3501,"y":3504,"w":581,"h":554},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":1,"w":581,"h":554},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_04 - Copy.png":
+{
+	"frame": {"x":1719,"y":3453,"w":572,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":9,"w":572,"h":545},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_05 - Copy.png":
+{
+	"frame": {"x":1180,"y":2392,"w":592,"h":519},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":35,"w":592,"h":519},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_06 - Copy.png":
+{
+	"frame": {"x":1329,"y":1894,"w":602,"h":496},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":58,"w":602,"h":496},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_07 - Copy.png":
+{
+	"frame": {"x":606,"y":2383,"w":572,"h":518},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":34,"w":572,"h":518},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_08 - Copy.png":
+{
+	"frame": {"x":2293,"y":3467,"w":603,"h":542},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":9,"w":603,"h":542},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_09 - Copy.png":
+{
+	"frame": {"x":2898,"y":3504,"w":601,"h":542},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":8,"w":601,"h":542},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_10 - Copy.png":
+{
+	"frame": {"x":1774,"y":2402,"w":600,"h":521},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":29,"w":600,"h":521},
+	"sourceSize": {"w":642,"h":561}
+},
+"raptor-pro-walk_11 - Copy.png":
+{
+	"frame": {"x":2625,"y":1912,"w":634,"h":502},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":47,"w":634,"h":502},
+	"sourceSize": {"w":642,"h":561}
+}},
+"animations": {
+	"raptor-pro-roar": ["raptor-pro-roar_00.png","raptor-pro-roar_01.png","raptor-pro-roar_02.png","raptor-pro-roar_03.png","raptor-pro-roar_04.png","raptor-pro-roar_05.png","raptor-pro-roar_06.png","raptor-pro-roar_07.png","raptor-pro-roar_08.png","raptor-pro-roar_09.png","raptor-pro-roar_10.png","raptor-pro-roar_11.png","raptor-pro-roar_12.png","raptor-pro-roar_13.png","raptor-pro-roar_14.png","raptor-pro-roar_15.png","raptor-pro-roar_16.png","raptor-pro-roar_17.png","raptor-pro-roar_18.png","raptor-pro-roar_19.png","raptor-pro-roar_20.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "raptor-back.png",
+	"format": "RGBA8888",
+	"size": {"w":4292,"h":4059},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f77213c09be1363a141eedd6ca3d467a:fdfacb9cd17582a1cd2746d7f7e7cb91:a8cd5b6ec3c61ca7a1382257528bff7f$"
+}
+}
